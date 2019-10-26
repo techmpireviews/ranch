@@ -23,7 +23,7 @@
 					<style type="text/css">
 						#searchid {
 							position: absolute;
-							margin-top: -29px;
+							margin-top: -30px;
 							height: 17px;
 							width: 168px;
 							border-radius: 7px;
@@ -39,7 +39,7 @@
 						#searchid:hover {
 							position: absolute;
 							height: 17px;
-							margin-top: -29px;
+							margin-top: -30px;
 							width: 168px;
 							border-radius: 7px;
 							box-shadow: 0px;
@@ -55,7 +55,7 @@
 							position: absolute;
 							background-color: #ffffff;
 							color: #000000;
-							margin-top: -9.7px;
+							margin-top: -9.4px;
 							border: solid;
 							margin-left: 177px;
 							top: 25px;
@@ -70,7 +70,7 @@
 							color: #ffffff;
 							margin-left: 177px;
 							transition: 0.4s;
-							margin-top: -9.7px;
+							margin-top: -9.4px;
 							height: 21px;
 							border: solid;
 							border-color: #000000;
@@ -83,7 +83,7 @@
 	position: absolute;
 	top: 15px;
 	right: 15px;
-        clip-path: circle(21px at 269px 22px);
+        clip-path: circle(21px at 260px 22px);
 	background-color: #ffffff;
 	transition: 0.5s;
 	padding: 5px 8px;
