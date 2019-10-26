@@ -10,19 +10,19 @@
 $result= $_POST['search'];
 $result= strtolower($result);
 if ($result=="cattle")
-header ('Location: /search=cattle.php');
+header ('Location: /searchcattle.php');
 	
 if ($result=="horses")
-header ('Location: /search=horses.php');
+header ('Location: /searchhorses.php');
 	
 if ($result=="about us")
-header ('Location: /search=about.php');
+header ('Location: /searchabout.php');
 	
 if ($result=="contact us")
-header ('Location: /search=contact.php');
+header ('Location: /searchcontact.php');
 	
 	if ($result=="home")
-header ('Location: /search=home.php');
+header ('Location: /searchhome.php');
 ?>
 </body>
 </html>
