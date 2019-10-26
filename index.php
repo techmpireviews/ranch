@@ -50,6 +50,8 @@
 							background-color: #ffffff;
 							color: #000000;
 							border: solid;
+							margin-top: -21px;
+							height: 21px;
 							transition: 0.4s;
 							border-color: #000000;
 							border-radius: 10px;
@@ -58,6 +60,8 @@
 							background-color: #000000;
 							color: #ffffff;
 							transition: 0.4s;
+							margin-top: -21px;
+							height: 21px;
 							border: solid;
 							border-color: #000000;
 							border-radius: 10px;
@@ -65,12 +69,11 @@
 						input:focus {
 							outline: none;
 						}
-						#infotop {
+        #infotop {
 	position: absolute;
 	top: 15px;
-	right: 4px;
-    clip-path: circle(21px at 272px 22px);
-	display: inline-block;
+	right: 310px;
+   /*clip-path: circle(21px at 272px 22px);*/
 	background-color: #ffffff;
 	transition: 0.5s;
 	padding: 5px 8px;
@@ -80,24 +83,16 @@
 #infotop:hover {
 	position: absolute;
 	top: 15px;
-	right: 4px;
+	right: 310px;
 	border-radius: 30px;
-	display: inline-block;
 	background-color: #ffffff;
-    clip-path: circle(100%);
-    transition: 0.5s;
+        /*clip-path: circle(100%);*/
+        transition: 0.5s;
 	padding: 5px 8px;
 	z-index: 15;
 }
-
-.textinfo {
-	float: left;
-	margin-top: 6.5px;
-	width: 20px;
-}
 #searchimg {
 	margin-left: 15px;
-	float: right;
 	width: 35px;
 	height: auto;
 	margin-top: 0px;
