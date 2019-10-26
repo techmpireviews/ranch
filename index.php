@@ -82,8 +82,8 @@
         #infotop {
 	position: absolute;
 	top: 15px;
-	right: 310px;
-   /*clip-path: circle(21px at 272px 22px);*/
+	right: 10px;
+        clip-path: circle(21px at 272px 22px);
 	background-color: #ffffff;
 	transition: 0.5s;
 	padding: 5px 8px;
@@ -96,7 +96,7 @@
 	right: 310px;
 	border-radius: 30px;
 	background-color: #ffffff;
-        /*clip-path: circle(100%);*/
+        clip-path: circle(100%);
         transition: 0.5s;
 	padding: 5px 8px;
 	z-index: 15;
