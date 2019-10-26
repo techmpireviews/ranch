@@ -52,7 +52,6 @@
 							border-width: 2px;
 						}
 						#submitid {
-							position: absolute;
 							background-color: #ffffff;
 							color: #000000;
 							border: solid;
@@ -64,7 +63,6 @@
 							border-radius: 10px;
 						}
 						#submitid:hover {
-							position: absolute;
 							background-color: #000000;
 							color: #ffffff;
 							margin-left: 177px;
@@ -101,7 +99,6 @@
 	z-index: 15;
 }
 #searchimg {
-	position: relative;
 	margin-left: 241px;
 	width: 35px;
 	height: auto;
