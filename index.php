@@ -56,7 +56,7 @@
 							color: #000000;
 							border: solid;
 							margin-left: 177px;
-							margin-top: -40px;
+							margin-top: 0px;
 							height: 21px;
 							transition: 0.4s;
 							border-color: #000000;
@@ -67,7 +67,7 @@
 							color: #ffffff;
 							margin-left: 177px;
 							transition: 0.4s;
-							margin-top: -40px;
+							margin-top: 0px;
 							height: 21px;
 							border: solid;
 							border-color: #000000;
