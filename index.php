@@ -82,8 +82,8 @@
         #infotop {
 	position: absolute;
 	top: 15px;
-	right: 10px;
-        clip-path: circle(21px at 272px 22px);
+	right: 15px;
+        clip-path: circle(21px at 269px 22px);
 	background-color: #ffffff;
 	transition: 0.5s;
 	padding: 5px 8px;
@@ -93,7 +93,7 @@
 #infotop:hover {
 	position: absolute;
 	top: 15px;
-	right: 310px;
+	right: 15px;
 	border-radius: 30px;
 	background-color: #ffffff;
         clip-path: circle(100%);
