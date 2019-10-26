@@ -17,6 +17,7 @@
 			</div>
 			<a href=""><p id="logotop">Bauman Red Angus</p></a>
 			<span id="infotop"><div class="textinfo">
+				<img id="searchimg" src="images/searchicon.png">
 				<form autocomplete="off" id="searchform" action="search.php" method="post">
 					<input autocomplete="off" id="searchid" type="text" name="search">
 					<style type="text/css">
@@ -108,7 +109,7 @@
 					</style>
 					<input id="submitid" type="submit" name="submit" value="search">
 				</form></div>
-				<img id="searchimg" src="images/searchicon.png"></span>
+			</span>
 		</div>
 		<div class="middle">
 			<iframe id="fr1" width="940px" height="450px" frameborder="0px" src="frames/middle.html"></iframe>
