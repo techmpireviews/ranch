@@ -50,7 +50,7 @@
 							background-color: #ffffff;
 							color: #000000;
 							border: solid;
-							margin-top: -21px;
+							margin-top: -19px;
 							height: 21px;
 							transition: 0.4s;
 							border-color: #000000;
@@ -60,7 +60,7 @@
 							background-color: #000000;
 							color: #ffffff;
 							transition: 0.4s;
-							margin-top: -21px;
+							margin-top: -19px;
 							height: 21px;
 							border: solid;
 							border-color: #000000;
@@ -92,11 +92,10 @@
 	z-index: 15;
 }
 #searchimg {
-	margin-left: 50px;
+	margin-left: 120px;
 	width: 35px;
 	height: auto;
-	float: right;
-	margin-top: -50px;
+	margin-top: -30px;
 }
 
 					</style>
