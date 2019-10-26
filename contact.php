@@ -15,8 +15,102 @@
 				<img id="mainimage" src="images/contactmain.png">
 			</div>
 			<a href=""><p id="logotop">Contact Us</p></a>
-			<span id="infotop"><p class="textinfo">Image by <a href="https://pixabay.com/users/Detmold-2203847/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1634374" target="_blank">Detmold</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1634374"  target="_blank">Pixabay</a></p><img id="infotopimg" src="images/info.png"></span>
-		</div>
+<span id="infotop"><div class="textinfo">
+				<img id="searchimg" src="images/searchicon.png">
+				<form autocomplete="off" id="searchform" action="search.php" method="post">
+					<input autocomplete="off" id="searchid" type="text" name="search">
+					<style type="text/css">
+						#searchid {
+							position: absolute;
+							margin-top: -30px;
+							height: 17px;
+							width: 168px;
+							border-radius: 7px;
+							box-shadow: 0px;
+							text-shadow: none;
+							border: solid;
+							background-color: #ffffff;
+							border-color: #000000;
+							transition: 0.4s;
+							color: #000000;
+							border-width: 2px;
+						}
+						#searchid:hover {
+							position: absolute;
+							height: 17px;
+							margin-top: -30px;
+							width: 168px;
+							border-radius: 7px;
+							box-shadow: 0px;
+							text-shadow: none;
+							color: #F0F0F0;
+							background-color: #989696;
+							border: solid;
+							transition: 0.4s;
+							border-color: #000000;
+							border-width: 2px;
+						}
+						#submitid {
+							position: absolute;
+							background-color: #ffffff;
+							color: #000000;
+							margin-top: -10px;
+							border: solid;
+							margin-left: 177px;
+							top: 25px;
+							height: 21px;
+							transition: 0.4s;
+							border-color: #000000;
+							border-radius: 10px;
+						}
+						#submitid:hover {
+							position: absolute;
+							background-color: #000000;
+							color: #ffffff;
+							margin-left: 177px;
+							transition: 0.4s;
+							margin-top: -10px;
+							height: 21px;
+							border: solid;
+							border-color: #000000;
+							border-radius: 10px;
+						}
+						input:focus {
+							outline: none;
+						}
+        #infotop {
+	position: absolute;
+	top: 15px;
+	right: 15px;
+        clip-path: circle(21px at 265px 22px);
+	background-color: #ffffff;
+	transition: 0.5s;
+	padding: 5px 8px;
+	z-index: 15;
+}
+
+#infotop:hover {
+	position: absolute;
+	top: 15px;
+	right: 15px;
+	border-radius: 30px;
+	background-color: #ffffff;
+        clip-path: circle(100%);
+        transition: 0.5s;
+	padding: 5px 8px;
+	z-index: 15;
+}
+#searchimg {
+	margin-left: 241px;
+	width: 35px;
+	height: auto;
+	margin-top: 0px;
+}
+
+					</style>
+					<input id="submitid" type="submit" name="submit" value="search">
+				</form></div>
+			</span>		</div>
 	</div>
 </body>
 <!--<footer>
