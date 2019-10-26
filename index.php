@@ -22,6 +22,7 @@
 					<style type="text/css">
 						#searchid {
 							position: absolute;
+							margin-top: 15px;
 							height: 17px;
 							width: 168px;
 							border-radius: 7px;
@@ -37,6 +38,7 @@
 						#searchid:hover {
 							position: absolute;
 							height: 17px;
+							margin-top: 15px;
 							width: 168px;
 							border-radius: 7px;
 							box-shadow: 0px;
@@ -52,6 +54,7 @@
 							background-color: #ffffff;
 							color: #000000;
 							border: solid;
+							margin-left: 173px;
 							margin-top: -16px;
 							height: 21px;
 							transition: 0.4s;
@@ -61,6 +64,7 @@
 						#submitid:hover {
 							background-color: #000000;
 							color: #ffffff;
+							margin-left: 173px;
 							transition: 0.4s;
 							margin-top: -16px;
 							height: 21px;
