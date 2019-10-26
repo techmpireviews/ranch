@@ -96,7 +96,7 @@
 	width: 35px;
 	height: auto;
 	float: right;
-	margin-top: 0px;
+	margin-top: -10px;
 }
 
 					</style>
