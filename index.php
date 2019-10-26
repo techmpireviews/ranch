@@ -83,7 +83,7 @@
 	position: absolute;
 	top: 15px;
 	right: 15px;
-        clip-path: circle(21px at 263px 22px);
+        clip-path: circle(21px at 265px 22px);
 	background-color: #ffffff;
 	transition: 0.5s;
 	padding: 5px 8px;
