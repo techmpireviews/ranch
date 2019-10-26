@@ -21,6 +21,7 @@
 					<input autocomplete="off" id="searchid" type="text" name="search">
 					<style type="text/css">
 						#searchid {
+							position: absolute;
 							height: 17px;
 							width: 168px;
 							border-radius: 7px;
@@ -34,6 +35,7 @@
 							border-width: 2px;
 						}
 						#searchid:hover {
+							position: absolute;
 							height: 17px;
 							width: 168px;
 							border-radius: 7px;
