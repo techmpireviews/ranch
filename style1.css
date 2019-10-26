@@ -131,44 +131,6 @@ body {
 	z-index: 1;
 }
 
-#infotop {
-	position: absolute;
-	top: 15px;
-	right: 4px;
-    clip-path: circle(21px at 272px 22px);
-	display: inline-block;
-	background-color: #ffffff;
-	transition: 0.5s;
-	padding: 5px 8px;
-	z-index: 15;
-}
-
-#infotop:hover {
-	position: absolute;
-	top: 15px;
-	right: 4px;
-	border-radius: 30px;
-	display: inline-block;
-	background-color: #ffffff;
-    clip-path: circle(100%);
-    transition: 0.5s;
-	padding: 5px 8px;
-	z-index: 15;
-}
-
-.textinfo {
-	float: left;
-	margin-top: 6.5px;
-	width: 20px;
-}
-#searchimg {
-	margin-left: 15px;
-	float: right;
-	width: 35px;
-	height: auto;
-	margin-top: 0px;
-}
-
 #fr1 {
 	margin-top: 60px;
 }
