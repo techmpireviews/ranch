@@ -102,61 +102,6 @@ body {
 	z-index: 1;
 }
 
-#logotop:hover {
-	font-size: 40px;
-	color: #000000;
-	background-color: #ffffff;
-	border: solid;
-	position: absolute;
-	transition: 0.5s;
-	left: 50%;
-	margin-right: -50%;
-	transform: translate(-50%, -50%);
-	border-color: #000000;
-	border-radius: 20px;
-	padding-top: 0px;
-	padding-left: 8px;
-	padding-right: 8px;
-	padding-bottom: 3px;
-	top: -5px;
-	z-index: 1;
-}
-
-#infotop {
-	position: absolute;
-	top: 5px;
-	right: 4px;
-    clip-path: circle(20px at 244px 28.5px);
-	display: inline-block;
-	background-color: #ffffff;
-	transition: 0.5s;
-	padding: 5px 8px;
-}
-
-#infotop:hover {
-	position: absolute;
-	top: 5px;
-	right: 4px;
-	border-radius: 30px;
-	display: inline-block;
-	background-color: #ffffff;
-    clip-path: circle(100%);
-    transition: 0.5s;
-	padding: 5px 8px;
-}
-
-.textinfo {
-	float: left;
-}
-
-#infotopimg {
-	margin-left: 15px;
-	float: right;
-	width: 47px;
-	height: auto;
-	margin-top: 0px;
-}
-
 #fr1 {
 	margin-top: 60px;
 }
