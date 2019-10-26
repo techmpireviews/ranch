@@ -55,7 +55,7 @@
 							position: absolute;
 							background-color: #ffffff;
 							color: #000000;
-							margin-top: -9.4px;
+							margin-top: -10px;
 							border: solid;
 							margin-left: 177px;
 							top: 25px;
@@ -70,7 +70,7 @@
 							color: #ffffff;
 							margin-left: 177px;
 							transition: 0.4s;
-							margin-top: -9.4px;
+							margin-top: -10px;
 							height: 21px;
 							border: solid;
 							border-color: #000000;
@@ -83,7 +83,7 @@
 	position: absolute;
 	top: 15px;
 	right: 15px;
-        clip-path: circle(21px at 260px 22px);
+        clip-path: circle(21px at 263px 22px);
 	background-color: #ffffff;
 	transition: 0.5s;
 	padding: 5px 8px;
