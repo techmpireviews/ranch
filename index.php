@@ -55,7 +55,7 @@
 							position: absolute;
 							background-color: #ffffff;
 							color: #000000;
-							margin-top: -27.8px;
+							margin-top: -9.7px;
 							border: solid;
 							margin-left: 177px;
 							top: 25px;
@@ -70,7 +70,7 @@
 							color: #ffffff;
 							margin-left: 177px;
 							transition: 0.4s;
-							margin-top: -27.8px;
+							margin-top: -9.7px;
 							height: 21px;
 							border: solid;
 							border-color: #000000;
