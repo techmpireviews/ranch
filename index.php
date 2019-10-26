@@ -92,10 +92,10 @@
 	z-index: 15;
 }
 #searchimg {
-	margin-left: 230px;
+	margin-left: 243px;
 	width: 35px;
 	height: auto;
-	margin-top: -50px;
+	margin-top: -70px;
 }
 
 					</style>
