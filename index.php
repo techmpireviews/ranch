@@ -95,6 +95,7 @@
 	margin-left: 15px;
 	width: 35px;
 	height: auto;
+	float: right;
 	margin-top: 0px;
 }
 
