@@ -102,7 +102,7 @@
 	margin-left: 241px;
 	width: 35px;
 	height: auto;
-	margin-top: -80px;
+	margin-top: -50px;
 }
 
 					</style>
