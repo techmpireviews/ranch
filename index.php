@@ -54,8 +54,8 @@
 							background-color: #ffffff;
 							color: #000000;
 							border: solid;
-							margin-left: 173px;
-							margin-top: 0px;
+							margin-left: 180px;
+							margin-top: 5px;
 							height: 21px;
 							transition: 0.4s;
 							border-color: #000000;
@@ -64,9 +64,9 @@
 						#submitid:hover {
 							background-color: #000000;
 							color: #ffffff;
-							margin-left: 173px;
+							margin-left: 180px;
 							transition: 0.4s;
-							margin-top: 0px;
+							margin-top: 5px;
 							height: 21px;
 							border: solid;
 							border-color: #000000;
