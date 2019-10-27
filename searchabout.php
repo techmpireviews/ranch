@@ -121,45 +121,16 @@
 	top: 16px;
 	left: 12px;
 }
+
 </style>
-
-
-
-
-<?php
-$result= $_POST['search'];
-$result= strtolower($result);
-if ($result=="cattle")
-header ('Location: /searchcattle.php');
-	
-if ($result=="horses")
-header ('Location: /searchhorses.php');
-	
-if ($result=="about us")
-header ('Location: /searchabout.php');
-	
-if ($result=="contact us")
-header ('Location: /searchcontact.php');
-
-if ($result<>"cattle")
-header ('Location: /search.php');
-	
-if ($result<>"horses")
-header ('Location: /search.php');
-	
-if ($result<>"about us")
-header ('Location: /search.php');
-	
-if ($result!<>"contact us")
-header ('Location: /search.php');
-
-echo "<center>Showing results for '$result'.</center>";
+<?php 
+echo "<center><p>Showing results for 'about us'</p><center>";
 ?>
 	<br>
 	<br>
-	<center><a style="font-size: 25px; color: blue;" href="/about.php">Bauman Red Angus - About Us</a></center>
+	<center><a style="margin-left: -46px; font-size: 25px; color: blue;" href="/about.php">Bauman Red Angus - About Us</a></center>
 	<br>
-	<center><a style="font-size: 20px; color: green;" href="/about.php">https://www.buamanredangus.com/about.php</a></center>
+	<center><a style="font-size: 20px; color: green;" href="/about.php">https://www.baumanredangus.com/about.php</a></center>
 	
 	
 	
