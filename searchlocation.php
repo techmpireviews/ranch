@@ -129,7 +129,7 @@ echo "<center><p>Showing results for 'about us'</p><center>";
 ?>
 	<br>
 	<br>
-	<center><a style="margin-left: -46px; font-size: 25px; color: blue;" href="/contact.php">Bauman Red Angus - Contact Us</a></center>
+	<center><a style="margin-left: -42px; font-size: 25px; color: blue;" href="/contact.php">Bauman Red Angus - Contact Us</a></center>
 	<br>
 	<center><a style="font-size: 20px; color: green;" href="/contact.php">https://www.baumanredangus.com/contact.php</a></center>
 	<br>
