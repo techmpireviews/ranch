@@ -9,7 +9,7 @@
 		<div class="imgtop">
 				<img id="mainimage" src="images/aboutmain.png">
 			</div>
-	<p id="menu"><span id="links"><a class="a1" href="/index.php">Home </a>&nbsp;&nbsp;&nbsp;&nbsp; <a class="a1" href="/cattle.php">Cattle </a>&nbsp;&nbsp;&nbsp;&nbsp; <a class="a1" href="/horses.php">Horses </a>&nbsp;&nbsp;&nbsp; <a class="a1" href="/contact.php">Contact Us </a>&nbsp;&nbsp;&nbsp; <a class="a1" href="">About Us</a></span><img id="menulogo" src="images/menu.png"></p>
+	<p id="menu"><span id="links"><a class="a1" href="/index.php">Home </a>&nbsp;&nbsp;&nbsp;&nbsp; <a class="a1" href="/cattle.php">Cattle </a>&nbsp;&nbsp;&nbsp;&nbsp; <a class="a1" href="/horses.php">Horses </a>&nbsp;&nbsp;&nbsp; <a class="a1" href="/contact.php">Contact Us </a>&nbsp;&nbsp;&nbsp; <a class="a1" href="">About Us </a>&nbsp;&nbsp;&nbsp; <a class="a1" href="/search.php"> Search</a></span><img id="menulogo" src="images/menu.png"></p>
 </header>
 <body>
 	<div class="main">
