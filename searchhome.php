@@ -129,7 +129,7 @@ echo "<center><p>Showing results for 'home'</p><center>";
 ?>
 	<br>
 	<br>
-	<center><a style="margin-left: -46px; font-size: 25px; color: blue;" href="/about.php">Bauman Red Angus - Home</a></center>
+	<center><a style="margin-left: -77px; font-size: 25px; color: blue;" href="/about.php">Bauman Red Angus - Home</a></center>
 	<br>
 	<center><a style="font-size: 20px; color: green;" href="/index.php">https://www.baumanredangus.com/index.php</a></center>
 	
