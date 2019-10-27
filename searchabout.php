@@ -141,11 +141,13 @@ header ('Location: /searchabout.php');
 if ($result=="contact us")
 header ('Location: /searchcontact.php');
 
-echo "<center>Showing results for '$result'.</center>";
+echo "<center>Showing results for 'about us'.</center>";
 ?>
-	
 	<br>
-	<center><a href="/about.php">Bauman Red Angus - About Us</a></center>
+	<br>
+	<center><a style="font-size: 25px; color: blue;" href="/about.php">Bauman Red Angus - About Us</a></center>
+	<br>
+	<center><a style="font-size: 20px; color: green;" href="/about.php">https://www.buamanredangus.com/about.php</a></center>
 	
 	
 	
