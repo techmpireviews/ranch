@@ -141,10 +141,13 @@ header ('Location: /searchlocation.php');
 if ($result=="horses")
 header ('Location: /searchhorses.php');
 	
-if ($result=="about us" || $result=="about")
+if ($result=="about us")
 header ('Location: /searchabout.php');
 	
-if ($result=="contact us" || $result=="contact")
+if ($result=="about")
+header (echo "<p>Did you mean</p><a href="/searchabout.php">About Us</a><p>?</p>");
+	
+if ($result=="contact us")
 header ('Location: /searchcontact.php');
 
 echo "<center>No results for '$result'.</center>";
