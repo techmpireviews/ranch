@@ -1,3 +1,3 @@
-if(screen.width <= 450px) {
-  location.href = "mobile.php";
+if(screen.width <= 450) {
+  location.href = '/mobile.php';
 }
