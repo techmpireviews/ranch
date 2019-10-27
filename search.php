@@ -150,7 +150,10 @@ echo "<center><p style='font-size: 26px;'>Did you mean <a style='color: blue;'hr
 	
 if ($result=="contact")
 echo "<center><p style='font-size: 26px;'>Did you mean <a style='color: blue;'href='/searchcontact.php'>Contact Us</a>?</p></center>";
-	
+
+if ($result=="cows")
+echo "<center><p style='font-size: 26px;'>Did you mean <a style='color: blue;'href='/searchcattle.php'>cattle</a>?</p></center>";
+
 if ($result=="contact us")
 header ('Location: /searchcontact.php');
 
