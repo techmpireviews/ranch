@@ -48,6 +48,7 @@
 	#searchid {
 		margin-top: -5px;
 		border: solid;
+		font-size: 22px;
 		background-color: transparent;
 		border-color: transparent;
 		border-bottom-color: #000000;
