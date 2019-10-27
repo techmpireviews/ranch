@@ -145,10 +145,10 @@ if ($result=="about us")
 header ('Location: /searchabout.php');
 	
 if ($result=="about")
-echo "<p style='font-size: 30px;'>Did you mean<a style='color: blue;'href='/searchabout.php'>About Us</a>?</p>";
+echo "<p style='font-size: 26px;'>Did you mean <a style='color: blue;'href='/searchabout.php'>About Us</a>?</p>";
 	
 if ($result=="contact")
-echo "<p style='font-size: 30px;'>Did you mean<a style='color: blue;'href='/searchcontact.php'>Contact Us</a>?</p>";
+echo "<p style='font-size: 26px;'>Did you mean <a style='color: blue;'href='/searchcontact.php'>Contact Us</a>?</p>";
 	
 if ($result=="contact us")
 header ('Location: /searchcontact.php');
