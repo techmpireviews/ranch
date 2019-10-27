@@ -3,17 +3,17 @@
 <head>
 	<title>Bauman Red Angus</title>
 	<link rel="icon" href="images/headlogo.png">
-	<link rel="stylesheet" type="text/css" href="contactstyle.css">
+	<link rel="stylesheet" type="text/css" href="contactstyle1.css">
 </head>
 <header>
+	<div class="imgtop">
+		<img id="mainimage" src="images/contactmain.png">
+	</div>
 	<p id="menu"><span id="links"><a class="a1" href="/index.php">Home </a>&nbsp;&nbsp;&nbsp;&nbsp; <a class="a1" href="/cattle.php">Cattle </a>&nbsp;&nbsp;&nbsp;&nbsp; <a class="a1" href="/horses.php">Horses </a>&nbsp;&nbsp;&nbsp; <a class="a1" href="">Contact Us </a>&nbsp;&nbsp;&nbsp; <a class="a1" href="/about.php">About Us </a>&nbsp;&nbsp;&nbsp; <a class="a1" href="/search.php"> Search</a></span><img id="menulogo" src="images/menu.png"></p>
 </header>
 <body>
 	<div class="main">
 		<div class="top">
-			<div class="imgtop">
-				<img id="mainimage" src="images/contactmain.png">
-			</div>
 			<a href=""><p id="logotop">Contact Us</p></a>
 <span id="infotop"><div class="textinfo">
 				<img id="searchimg" src="images/searchicon.png">
@@ -109,8 +109,37 @@
 
 					</style>
 					<input id="submitid" type="submit" name="submit" value="search">
-				</form></div>
-			</span>		</div>
+				</form>
+			</div>
+			</span>	
+			</div>
+			<div class="middle">
+			<iframe class="fr" width="910px" height="450px" frameborder="0px" src="frames/dave.html"></iframe>
+		</div>
+		<style type="text/css">
+			.fr {
+				margin-top: 18%;
+			}
+
+			.middle {
+  			    display: flex;
+   				justify-content: center;
+   				align-items: center;
+			}
+		</style>
+		<div class="middle">
+		<iframe class="fr" width="910px" height="450px" frameborder="0px" src="frames/wayde.html"></iframe>
+		</div>
+		<div class="middle">
+		<iframe class="fr" width="910px" height="450px" frameborder="0px" src="frames/jake.html"></iframe>
+		</div>
+		<div class="middle">
+		<iframe class="fr" width="910px" height="450px" frameborder="0px" src="frames/beau.html"></iframe>
+		</div>
+		<div class="middle">
+		<div class="middle">
+		<iframe class="fr" width="910px" height="450px" frameborder="0px" src="frames/brit.html"></iframe>
+		</div>
 	</div>
 </body>
 <!--<footer>
@@ -123,3 +152,4 @@
 	</div>
 </footer>-->
 </html>
+
