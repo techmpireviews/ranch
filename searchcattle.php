@@ -13,7 +13,7 @@
 		<span class="searchformspan">
 			<form autocomplete="off" id="searchform" action="search.php" method="post">
 				<img id="searchicon" style="width: 40px; height: auto;" src="images/searchicon.png">
-				<input style="margin-left: 5px;" value="cattle us" autocomplete="off" id="searchid" type="text" name="search">
+				<input style="margin-left: 5px;" value="cattle" autocomplete="off" id="searchid" type="text" name="search">
 			</form>
 		</span>
 	</div>
@@ -129,7 +129,7 @@ echo "<center><p>Showing results for 'about us'</p><center>";
 ?>
 	<br>
 	<br>
-	<center><a style="margin-left: -46px; font-size: 25px; color: blue;" href="/cattle.php">Bauman Red Angus - Cattle</a></center>
+	<center><a style="margin-left: -66px; font-size: 25px; color: blue;" href="/cattle.php">Bauman Red Angus - Cattle</a></center>
 	<br>
 	<center><a style="font-size: 20px; color: green;" href="/cattle.php">https://www.baumanredangus.com/cattle.php</a></center>
 	
