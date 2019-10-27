@@ -148,7 +148,7 @@ if ($result=="about")
 echo "<p>Did you mean</p><a href='/searchabout.php'>About Us</a><p>?</p>";
 	
 if ($result=="contact")
-echo "<p>Did you mean</p><a href='/searchcontact.php'>About Us</a><p>?</p>";
+echo "<p style='font-size: 30px;'>Did you mean<a style='color: blue;'href='/searchcontact.php'>About Us</a>?</p>";
 	
 if ($result=="contact us")
 header ('Location: /searchcontact.php');
