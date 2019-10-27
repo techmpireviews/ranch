@@ -132,13 +132,19 @@ $result= strtolower($result);
 if ($result=="cattle")
 header ('Location: /searchcattle.php');
 	
+if ($result=="home")
+header ('Location: /searchhome.php');
+	
+if ($result=="location")
+header ('Location: /searchlocation.php');
+	
 if ($result=="horses")
 header ('Location: /searchhorses.php');
 	
 if ($result=="about us" || $result=="about")
 header ('Location: /searchabout.php');
 	
-if ($result=="contact us" || $result=="contact" || $result=="location")
+if ($result=="contact us" || $result=="contact")
 header ('Location: /searchcontact.php');
 
 echo "<center>No results for '$result'.</center>";
