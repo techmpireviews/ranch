@@ -114,11 +114,15 @@
 			</span>	
 			</div>
 			<div class="middle">
-			<iframe class="fr" width="910px" height="450px" frameborder="0px" src="frames/dave.html"></iframe>
+			<iframe class="fr1" width="910px" height="450px" frameborder="0px" src="frames/dave.html"></iframe>
 		</div>
 		<style type="text/css">
-			.fr {
+			.fr1 {
 				margin-top: 18%;
+			}
+			
+			.fr {
+				margin-top: 50px;
 			}
 
 			.middle {
