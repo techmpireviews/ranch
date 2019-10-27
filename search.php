@@ -135,10 +135,10 @@ header ('Location: /searchcattle.php');
 if ($result=="horses")
 header ('Location: /searchhorses.php');
 	
-if ($result=="about us")
+if ($result=="about us" || $result=="about")
 header ('Location: /searchabout.php');
 	
-if ($result=="contact us")
+if ($result=="contact us" || $result=="contact" || $result=="location")
 header ('Location: /searchcontact.php');
 
 echo "<center>No results for '$result'.</center>";
