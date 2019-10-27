@@ -125,7 +125,7 @@
 
 </style>
 <?php 
-echo "<center><p>Showing results for 'about us'</p><center>";
+echo "<center><p>Showing results for 'cattle'</p><center>";
 ?>
 	<br>
 	<br>
