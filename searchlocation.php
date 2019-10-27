@@ -133,8 +133,7 @@ echo "<center><p>Showing results for 'about us'</p><center>";
 	<br>
 	<center><a style="font-size: 20px; color: green;" href="/contact.php">https://www.baumanredangus.com/contact.php</a></center>
 	<br>
-  <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2248.8108511793675!2d-100.54779088502222!3d46.16390999450307!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52d659c0778eac95%3A0xbe0b3176037f50c0!2s8th%20Ave%20SW%2C%20Linton%2C%20ND%2058552!5e1!3m2!1sen!2sus!4v1572151359114!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe></center>
-	
+	<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2763.121709105693!2d-100.54773348502205!3d46.16823289421118!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52d659c164d149bf%3A0x9031845df05dfa46!2sLinton%2C%20ND%2058552!5e0!3m2!1sen!2sus!4v1572151524895!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe></center>	
 	
 	
 </body>
