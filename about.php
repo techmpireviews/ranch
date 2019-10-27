@@ -3,7 +3,7 @@
 <head>
 	<title>Bauman Red Angus</title>
 	<link rel="icon" href="images/headlogo.png">
-	<link rel="stylesheet" type="text/css" href="contactstyle1.css">
+	<link rel="stylesheet" type="text/css" href="aboutstyle.css">
 </head>
 <header>
 	<div class="imgtop">
