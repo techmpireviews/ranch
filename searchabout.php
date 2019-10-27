@@ -13,7 +13,7 @@
 		<span class="searchformspan">
 			<form autocomplete="off" id="searchform" action="search.php" method="post">
 				<img id="searchicon" style="width: 40px; height: auto;" src="images/searchicon.png">
-				<input style="margin-left: 5px;" value="about us" autocomplete="off" id="searchid" type="text" name="search">
+				<input style="margin-left: 5px;" placeholder="search us" autocomplete="off" id="searchid" type="text" name="search">
 			</form>
 		</span>
 	</div>
