@@ -142,16 +142,16 @@ if ($result=="contact us")
 header ('Location: /searchcontact.php');
 
 if ($result!=="cattle")
-header ('Location: /searchcattle.php');
+header ('Location: /search.php');
 	
 if ($result!=="horses")
-header ('Location: /searchhorses.php');
+header ('Location: /search.php');
 	
 if ($result!=="about us")
-header ('Location: /searchabout.php');
+header ('Location: /search.php');
 	
 if ($result!=="contact us")
-header ('Location: /searchcontact.php');
+header ('Location: /search.php');
 
 echo "<center>Showing results for '$result'.</center>";
 ?>
